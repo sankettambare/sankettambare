@@ -17,7 +17,7 @@ I am a student learning and working with the **MERN Stack** (MongoDB, Express.js
  Completed **Electronics and Telecommunication Engineering (ENTC)** from **Dr. Babasaheb Ambedkar University**.
 - Focused on **Full-stack development** with a goal to work in software development.
 - Exploring new technologies and building side projects to enhance my skills.
-- 
+
 ## 📬 Contact Me
 
 - [LinkedIn]( https://www.linkedin.com/in/sanket-tambare-7482a6354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
