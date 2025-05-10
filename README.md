@@ -1,4 +1,4 @@
-# 👋 Hi, I'm  Sanket Tambare - MERN Stack Developer & Student
+# 👋 Hi, I'm  Sanket Tambare - MERN Stack Developer 
 
 I am a student learning and working with the **MERN Stack** (MongoDB, Express.js, React.js, Node.js). I am passionate about building full-stack web applications and improving my development skills.
 
@@ -7,7 +7,7 @@ I am a student learning and working with the **MERN Stack** (MongoDB, Express.js
 
 - **Frontend**: React.js, Redux, HTML, CSS, JavaScript (ES6+)
 - **Backend**: Node.js, Express.js, REST APIs
-- **Database**: MongoDB, Mongoose
+- **Database**: MongoDB, Mongoose.
 - **Version Control**: Git, GitHub,Netlify
 - **Others**: JWT, OAuth, Docker, NGINX
 
@@ -17,6 +17,7 @@ I am a student learning and working with the **MERN Stack** (MongoDB, Express.js
  Completed **Electronics and Telecommunication Engineering (ENTC)** from **Dr. Babasaheb Ambedkar University**.
 - Focused on **Full-stack development** with a goal to work in software development.
 - Exploring new technologies and building side projects to enhance my skills.
+- 
 ## 📬 Contact Me
 
 - [LinkedIn]( https://www.linkedin.com/in/sanket-tambare-7482a6354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
@@ -25,6 +26,6 @@ I am a student learning and working with the **MERN Stack** (MongoDB, Express.js
 
 ## 🌱 Currently Learning
 
-- Exploring advanced topics in **MERN stack** and **JavaScript**.
+- Exploring advanced topics in **MERN stack** and **JavaScript, React js**.
 - Working on building more complex projects to improve my skills.
 
