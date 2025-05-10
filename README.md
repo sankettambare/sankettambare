@@ -20,8 +20,8 @@ I am a student learning and working with the **MERN Stack** (MongoDB, Express.js
 ## 📬 Contact Me
 
 - [LinkedIn](https://linkedin.com/in/your-linkedin)
-- [GitHub](https://github.com/your-username)
-- [Email](mailto:youremail@example.com)
+- [GitHub]([https://github.com/your-username](https://github.com/sankettambare))
+- [Email](sankettambare24@gmail.com)
 
 ## 🌱 Currently Learning
 
